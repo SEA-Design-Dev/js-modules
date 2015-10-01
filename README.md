@@ -92,3 +92,17 @@ https://github.com/vigetlabs/gulp-starter/tree/1.0.0
 
 https://github.com/vigetlabs/gulp-starter
 
+
+
+
+# NPM 
+
+Any directory with a `package.json` can be published as an npm module.
+
+```
+→ npm adduser
+Username: jedfoster
+Password:
+Email: (this IS public) jed@jedfoster.com
+```
+
