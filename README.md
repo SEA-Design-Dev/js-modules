@@ -82,14 +82,13 @@ browserify app.js -o browserified.js
 
 
 
+# Gulp
 
+## My preference:
 
 https://github.com/vigetlabs/gulp-starter/tree/1.0.0
 
-
-
-
-
+## The new hotness:
 
 https://github.com/vigetlabs/gulp-starter
 
