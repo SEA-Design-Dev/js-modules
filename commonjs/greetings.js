@@ -1,4 +1,4 @@
-module.exports = {
+var obj = {
   english: 'Hello ',
   french: 'Bonjour ',
   german: 'Hallo ',
@@ -9,3 +9,5 @@ module.exports = {
     return this[arr[Math.floor(Math.random() * arr.length)]]
   }
 };
+
+module.exports = obj
