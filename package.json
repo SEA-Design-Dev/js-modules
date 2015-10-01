@@ -1,0 +1,15 @@
+{
+  "name": "js-modules",
+  "version": "1.0.0",
+  "description": "Examples of various JS module systems and build tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jed Foster <jed@jedfoster.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "webpack": "^1.12.2"
+  }
+}
