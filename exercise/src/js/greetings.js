@@ -1,5 +1,5 @@
-// module.exports = {
-greetings = {
+module.exports = {
+// greetings = {
   english: 'Hello ',
   french: 'Bonjour ',
   german: 'Hallo ',
